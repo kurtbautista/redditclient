@@ -1,0 +1,49 @@
+.App .ui.header-wrapper {
+  border-bottom: 1px solid #b5b5b5;
+  margin-bottom: 30px;
+}
+
+.header-container {
+  padding: 10px 0;
+}
+
+.hidden {
+  display: none;
+}
+
+img.float-left {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.post-container {
+  margin-bottom: 50px;
+}
+
+.comments-container {
+  clear: both;
+}
+
+.ui.comments {
+  max-width: 100% !important;
+}
+
+.ui.comments .comment {
+  margin-bottom: 10px !important;
+}
+
+.share-url {
+  width:1px;
+  display: inline-block;
+  overflow: hidden;
+  float: left;
+}
+
+.share-url input {
+  margin-left: -172px;
+}
